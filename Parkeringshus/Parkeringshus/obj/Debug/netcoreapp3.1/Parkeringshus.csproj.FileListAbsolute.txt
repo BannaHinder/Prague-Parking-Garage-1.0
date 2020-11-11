@@ -1,0 +1,13 @@
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.exe
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.deps.json
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.runtimeconfig.json
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.runtimeconfig.dev.json
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.dll
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\bin\Debug\netcoreapp3.1\Parkeringshus.pdb
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.csprojAssemblyReference.cache
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.AssemblyInfoInputs.cache
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.AssemblyInfo.cs
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.csproj.CoreCompileInputs.cache
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.dll
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.pdb
+C:\Users\Hanna\Documents\Bed20\C#\C# Lektionsmaterial\Slutprojektsuppgift\Parkeringshus\Parkeringshus\obj\Debug\netcoreapp3.1\Parkeringshus.genruntimeconfig.cache
