@@ -44,7 +44,7 @@ namespace Parkeringshus
             else
             {
                 Console.Write("\nEnter the registration number of your vehicle: ");
-                var regNumber = Console.ReadLine();
+                var regNumber = Console.ReadLine().ToUpper();
                 if (regNumber.Length > 10)
                 {
                     Console.WriteLine("Your regnumber is too long, please write one again in 10 charachers or less.");
@@ -61,7 +61,7 @@ namespace Parkeringshus
         static string GetRegNumber()
         {
             Console.Write("\nIn order to identify, please enter the registration number of your vehicle: ");
-            var regNumber = Console.ReadLine();
+            var regNumber = Console.ReadLine().ToUpper();
             if (regNumber.Length > 10)
             {
                 Console.WriteLine("Your regnumber is too long, please write one again in 10 charachers or less.");
@@ -183,6 +183,7 @@ namespace Parkeringshus
                         //statement som inte stämmer eftersom kompilatorn vet att && betyder att ALLT måste stämma. så även om nästa statement kan ge ett error
                     {   //så kollar den inte det då den redan avbrutit vid första false statement! (detta fick jag lära mig av en programmerare) 
                         parkingSLOTS[index] = parkingSLOTS[index] + "," + vehicleInfo;
+                        Console.WriteLine($"PARKED! in slot {index + 1}");
                         return parkingSLOTS;
                     }
                     index++;
@@ -195,6 +196,7 @@ namespace Parkeringshus
                 if (string.IsNullOrEmpty(slot))
                 {
                     parkingSLOTS[index] = vehicleInfo;
+                    Console.WriteLine($"PARKED! in slot {index + 1}");
                     return parkingSLOTS;
                 }
                 index++;
@@ -258,10 +260,9 @@ namespace Parkeringshus
                 switch (optionAnswer)
                 {
                     case 1:
-                        //PARKERA BIL/MC /////////////////////////////////////////////////
+                        //PARKERA BIL/MC //////////////////////////////////////////////////////////////////////////////////
                         string vehicleInfo = InputParkVehicle();
                         parkingSlotArray = ParkVehicle(vehicleInfo, parkingSlotArray);
-                        Console.WriteLine("PARKED!");
                         running = QuitOrContinue();
                         break;
                     case 2:
