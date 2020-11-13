@@ -3,6 +3,9 @@ using System;
 using System.Linq;
 using System.Runtime.CompilerServices;
 
+//Gjort av Hanna Binder Ekedahl
+//BED20 
+
 namespace Parkeringshus
 {
     class Program
